@@ -31,7 +31,8 @@ Chaos below:
 * Nuke removing users (when here would have ~1000 unused accounts)
 * Better bot prevention
 * DST, and automatically set timezone in based on user IP or browser language (or forum settings maybe?)
-* WYSYWIG when possible
+* WYSYWIG and oldstyle message-edit as plugins when possible
+* adding other Plugins for Managing and Administration the MyUPB
 
 And total chaos:
 
