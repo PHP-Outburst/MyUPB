@@ -8,8 +8,7 @@ Technologies in use (or at least planned)
 * MVC model (or something similar)
 * PHP 5.6 / 7
     * PDO
-        * SQLite
-        * mySQL
+        * SQLite  // no extra DB-Server all mus work with Webserver and PHP !
 * HTML 5
 * CSS 3
 * jQuery
@@ -24,6 +23,7 @@ Planned functions and things to add:
 
 Chaos below:  
 
+* Change out the TextBD with SQLite
 * Remove some libraries, including TextDB (or reforge it later on that high mountain)
 * Securimage with mathematics
 * Nuke removing users (when here would have ~1000 unused accounts)
