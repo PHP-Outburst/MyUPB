@@ -20,7 +20,8 @@ Planned functions and things to add:
 * Documentation too (see http://www.phpdoc.org/ )
 * Forum Plugin System
 * groups
-* shoutbox and other Plugins
+* shoutbox 
+* Mysql connectivity and other Plugins as extra addon
 
 
 Chaos below:  
