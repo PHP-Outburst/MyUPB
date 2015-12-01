@@ -19,7 +19,9 @@ Planned functions and things to add:
 * subforums
 * groups
 * Documentation too (see http://www.phpdoc.org/ )
-* shoutbox
+* Forum Plugin System
+* shoutbox and other Plugins
+
 
 Chaos below:  
 
