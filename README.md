@@ -17,9 +17,9 @@ Planned functions and things to add:
 
 * Multilingual from very beggining
 * subforums
-* groups
 * Documentation too (see http://www.phpdoc.org/ )
 * Forum Plugin System
+* groups
 * shoutbox and other Plugins
 
 
