@@ -50,3 +50,8 @@ $number==1?"singular":"plural"
 for English and  
 $number==1?"singular":($number%10>=2&&$number%10<=4&&($number%100<10||$number%100>=20)?"paucal":"plural")  
 for Polish (don't worry, this is probably most complicated formula I've heard of, most of them are way more simple)
+
+Reccomendations:
+
+* Try to be compliant with PSR standards (at least PSR-1 & 2, see https://github.com/php-fig/fig-standards/tree/master/accepted )(better: BE compliant with these standards alhough we don't use autoloader (at least yet))
+    * see examples here https://github.com/php-fig/fig-standards/blob/master/proposed/extended-coding-style-guide.md
