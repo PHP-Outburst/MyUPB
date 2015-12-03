@@ -19,7 +19,9 @@ Planned functions and things to add:
 * Multilingual from very beggining
 * subforums
 * groups
-* Documentation too (see http://www.phpdoc.org/ )
+* Documentation (see http://www.phpdoc.org/ )
+* Unit tests
+* Continous integration (okay, not a function but still useful)
 * shoutbox
 
 Chaos below:  
