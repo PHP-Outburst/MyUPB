@@ -61,11 +61,11 @@
                     <include name="**/*.php"/>
             </fileset>
         </coverage-setup>-->
-        <phpunit codecoverage="false" bootstrap="${srcdir}/autoload.php" haltonfailure="true" haltonerror="true">
+        <phpunit codecoverage="false" bootstrap="${srcdir}/autoload.php" haltonfailure="true" haltonerror="true" ><!--configuration="./phpunit.xml">-->
             <formatter type="plain" usefile="false"/>
             <batchtest>
                 <fileset dir="${testsdir}">
-                    <include name="**/*Test*.php"/>
+                    <include name="**/*Test.php"/>
                 </fileset>
             </batchtest>
         </phpunit>
