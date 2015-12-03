@@ -1,5 +1,7 @@
 myUPB development branch
 ====
+[![Build Status](https://status.continuousphp.com/git-hub/PHP-Outburst/MyUPB?token=a1c00869-1c6f-4f33-8c7b-0e34408eee9d&branch=scratch)](https://continuousphp.com/git-hub/PHP-Outburst/MyUPB)
+
 To be honest this branch is specifically made to create next version from scratch, without composer, lighter and faster than ever
 
 Basic info:  
