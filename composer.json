@@ -1,6 +1,6 @@
 {
     "require-dev": {
         "phpunit/phpunit": "*",
-        "squizlabs/php_codesniffer": "*"
+        "zerkalica/phpcs": "*"
     }
 }
